@@ -1,0 +1,13 @@
+p {
+  font-family: Lato;
+}
+
+.content, button, .error {
+  margin-top: 20px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+.error {
+  color: red;
+}
